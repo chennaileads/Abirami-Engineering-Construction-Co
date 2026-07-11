@@ -58,31 +58,26 @@
   --builza-font: "Public Sans", sans-serif;
   --builza-font-two: "Exo", sans-serif;
 
-  /* Primary Logo Red */
-  --builza-base: #eb1313;
-  --builza-base-rgb: 255, 26, 26;
+  /* Premium Brick Red */
+  --builza-base: #A63D2F;
+--builza-base-rgb: 166, 61, 47;
 
-  /* Dark Navy from Logo Text */
+  /* Dark Navy */
   --builza-black: #0A1425;
   --builza-black-rgb: 10, 20, 37;
 
-  /* Body Text */
   --builza-gray: #5F6773;
   --builza-gray-rgb: 95, 103, 115;
 
-  /* White */
   --builza-white: #FFFFFF;
   --builza-white-rgb: 255, 255, 255;
 
-  /* Light Background */
   --builza-primary: #F8F8F8;
   --builza-primary-rgb: 248, 248, 248;
 
-  /* Border Color */
   --builza-bdr-color: #D9D9D9;
   --builza-bdr-color-rgb: 217, 217, 217;
 
-  /* Border Radius */
   --builza-bdr-radius: 10px;
 }
 
